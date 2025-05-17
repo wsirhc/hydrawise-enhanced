@@ -1,0 +1,10 @@
+{
+    "domain": "hydrawise_enhanced",
+    "name": "Hydrawise Enhanced",
+    "version": "1.0.0",
+    "documentation": "https://github.com/wsirhc/hydrawise-enhanced.git",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@wsirhc"],
+    "iot_class": "cloud_polling"
+}
